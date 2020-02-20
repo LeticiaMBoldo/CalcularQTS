@@ -9,3 +9,14 @@ C:\Users\etec\Desktop\20200206\aula0102\calcular\calcular\obj\Debug\netcoreapp3.
 C:\Users\etec\Desktop\20200206\aula0102\calcular\calcular\obj\Debug\netcoreapp3.1\calcular.AssemblyInfo.cs
 C:\Users\etec\Desktop\20200206\aula0102\calcular\calcular\obj\Debug\netcoreapp3.1\calcular.dll
 C:\Users\etec\Desktop\20200206\aula0102\calcular\calcular\obj\Debug\netcoreapp3.1\calcular.pdb
+C:\Users\etec\Desktop\CalcularQTS\calcular\calcular\bin\Debug\netcoreapp3.1\calcular.exe
+C:\Users\etec\Desktop\CalcularQTS\calcular\calcular\bin\Debug\netcoreapp3.1\calcular.deps.json
+C:\Users\etec\Desktop\CalcularQTS\calcular\calcular\bin\Debug\netcoreapp3.1\calcular.runtimeconfig.json
+C:\Users\etec\Desktop\CalcularQTS\calcular\calcular\bin\Debug\netcoreapp3.1\calcular.runtimeconfig.dev.json
+C:\Users\etec\Desktop\CalcularQTS\calcular\calcular\bin\Debug\netcoreapp3.1\calcular.dll
+C:\Users\etec\Desktop\CalcularQTS\calcular\calcular\bin\Debug\netcoreapp3.1\calcular.pdb
+C:\Users\etec\Desktop\CalcularQTS\calcular\calcular\obj\Debug\netcoreapp3.1\calcular.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\CalcularQTS\calcular\calcular\obj\Debug\netcoreapp3.1\calcular.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\CalcularQTS\calcular\calcular\obj\Debug\netcoreapp3.1\calcular.AssemblyInfo.cs
+C:\Users\etec\Desktop\CalcularQTS\calcular\calcular\obj\Debug\netcoreapp3.1\calcular.dll
+C:\Users\etec\Desktop\CalcularQTS\calcular\calcular\obj\Debug\netcoreapp3.1\calcular.pdb

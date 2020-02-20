@@ -32,7 +32,7 @@ namespace calcular
         {
             double parcelas = 0;
 
-            parcelas = qtdeParcelas * ValorInicial;
+            parcelas = qtdeParcelas / ValorInicial;
 
             if (qtdeParcelas > 5)
             {

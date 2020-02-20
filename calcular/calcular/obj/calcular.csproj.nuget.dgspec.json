@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\etec\\Desktop\\20200206\\aula0102\\calcular\\calcular\\calcular.csproj": {}
+    "C:\\Users\\etec\\Desktop\\CalcularQTS\\calcular\\calcular\\calcular.csproj": {}
   },
   "projects": {
-    "C:\\Users\\etec\\Desktop\\20200206\\aula0102\\calcular\\calcular\\calcular.csproj": {
+    "C:\\Users\\etec\\Desktop\\CalcularQTS\\calcular\\calcular\\calcular.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\etec\\Desktop\\20200206\\aula0102\\calcular\\calcular\\calcular.csproj",
+        "projectUniqueName": "C:\\Users\\etec\\Desktop\\CalcularQTS\\calcular\\calcular\\calcular.csproj",
         "projectName": "calcular",
-        "projectPath": "C:\\Users\\etec\\Desktop\\20200206\\aula0102\\calcular\\calcular\\calcular.csproj",
+        "projectPath": "C:\\Users\\etec\\Desktop\\CalcularQTS\\calcular\\calcular\\calcular.csproj",
         "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\etec\\Desktop\\20200206\\aula0102\\calcular\\calcular\\obj\\",
+        "outputPath": "C:\\Users\\etec\\Desktop\\CalcularQTS\\calcular\\calcular\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
