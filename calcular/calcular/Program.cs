@@ -36,7 +36,7 @@ namespace calcular
 
             if (qtdeParcelas > 5)
             {
-                parcelas = parcelas * (1 / 100);
+                parcelas = parcelas / (1 / 100);
             }
             return parcelas;
         }
